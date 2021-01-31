@@ -5,7 +5,7 @@ import Header from './Header';
 function App() {
   return (
     <div className="app">
-      <h1> Lets build the MERN clone for Tinder</h1>
+    
 
       {/*Header*/}
       <Header />

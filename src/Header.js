@@ -19,7 +19,9 @@ function Header() {
             alt="tinder logo" 
             srcset=""/>
 
-            <ForumIcon />
+            <IconButton>
+            <ForumIcon fontSize="large" className="header_icon"/>
+            </IconButton>
             
            
         </div>
