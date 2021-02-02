@@ -11,7 +11,7 @@ function App() {
       {/*Header*/}
       <Header />
       <TinderCards />
-      {/*SwipeButtoons*/}
+      {/*SwipeButtons*/}
       
     </div>
     
