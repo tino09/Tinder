@@ -16,7 +16,7 @@ function Header() {
             <img 
             className="header_logo"
             src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tinder.png" 
-            alt="tinder logo" 
+            alt="tinder logo logo" 
             srcset=""/>
 
             <IconButton>
